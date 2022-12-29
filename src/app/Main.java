@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Super mega app.");
+        System.out.println("Converter for base converting");
         double miles = 15;
         double kms = 26;
         double kmsRes = convertMilesToKms(miles);
