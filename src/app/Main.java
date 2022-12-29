@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("My app for Users!");
+        System.out.println("Version 1.0");
         double miles = 15;
         double kms = 26;
         double kmsRes = convertMilesToKms(miles);
